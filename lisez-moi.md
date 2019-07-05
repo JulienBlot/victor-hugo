@@ -5,4 +5,5 @@ Le site web "Victor Hugo" comprend un liseré, des balises sémantiques ainsi de
 Lorsqu'il n'y a pas suffisament de place sur le naviguateur, le liseré disparaît et les blocs s'alignent de haut en bas. 
 
 Cordialement,
+
 J.B
