@@ -2,7 +2,7 @@
 
 Bonjour à tous, 
 
-ATTENTION : pour une question de place, il manque la police "Songti" que vous pourrez retrouver sur le Web.
+ATTENTION : pour une question de place (de taille de fichier), il manque la police "Songti" que vous pourrez retrouver sur le Web.
 
 Les fichiers joints servent à donner une simple illustration d'un site adapté en responsive design ainsi que de l'usage de Flexbox. 
 Le site web "Victor Hugo" comprend un liseré, des balises sémantiques ainsi des blocs alignés de gauche à droite.
